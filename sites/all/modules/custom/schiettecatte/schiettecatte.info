@@ -1,0 +1,7 @@
+name = Schiettecatte
+description = Custom changes.
+core = 7.x
+version = 7.x-1.x
+package = Schiettecatte
+
+stylesheets[all][] = schiettecatte.css

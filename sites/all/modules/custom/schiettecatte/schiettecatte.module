@@ -1,0 +1,23 @@
+<?php
+
+// altijd tzelfste
+define('MODULE_PATH', drupal_get_path('module', 'schiettecatte'));
+
+/**
+ * Add all include files
+ **/
+function schiettecatte_include() {
+  // includes dir
+  $dir = MODULE_PATH . '/includes/';
+  // skip these mofos
+  $skips = array('.', '..');
+  // read includes dir
+  if ($handle = opendir($dir)) {
+    // include all files
+    while (FALSE !== ($entry = readdir($handle))) {
+      if (!in_array($entry, $skips)) {
+        include($dir . $entry);
+      }
+    }
+  }
+}

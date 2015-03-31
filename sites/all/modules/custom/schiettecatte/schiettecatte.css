@@ -1,0 +1,12 @@
+.view-links .views-row {
+  float: left;
+  list-style: none;
+}
+
+.view-links .item-list {
+  clear: both;
+}
+
+#header #header-bottom {
+	background: transparent url(20120222_104939.png) no-repeat;
+}

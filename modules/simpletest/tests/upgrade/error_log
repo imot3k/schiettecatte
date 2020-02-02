@@ -1,0 +1,9 @@
+[03-Jun-2018 07:43:05 Europe/Brussels] PHP Fatal error:  Call to undefined function db_create_table() in /home/s12137sc/public_html/modules/simpletest/tests/upgrade/drupal-6.forum.database.php on line 7
+[13-Jun-2018 17:53:48 Europe/Brussels] PHP Fatal error:  Call to undefined function db_create_table() in /home/s12137sc/public_html/modules/simpletest/tests/upgrade/drupal-6.forum.database.php on line 7
+[27-Jun-2018 12:01:38 Europe/Brussels] PHP Fatal error:  Call to undefined function db_create_table() in /home/s12137sc/public_html/modules/simpletest/tests/upgrade/drupal-6.forum.database.php on line 7
+[07-Jul-2018 17:15:03 Europe/Brussels] PHP Fatal error:  Call to undefined function db_create_table() in /home/s12137sc/public_html/modules/simpletest/tests/upgrade/drupal-6.forum.database.php on line 7
+[16-Jul-2018 15:40:37 Europe/Brussels] PHP Fatal error:  Call to undefined function db_create_table() in /home/s12137sc/public_html/modules/simpletest/tests/upgrade/drupal-6.forum.database.php on line 7
+[26-Jul-2018 23:07:41 Europe/Brussels] PHP Fatal error:  Call to undefined function db_create_table() in /home/s12137sc/public_html/modules/simpletest/tests/upgrade/drupal-6.forum.database.php on line 7
+[06-Aug-2018 15:05:53 Europe/Brussels] PHP Fatal error:  Call to undefined function db_create_table() in /home/s12137sc/public_html/modules/simpletest/tests/upgrade/drupal-6.forum.database.php on line 7
+[15-Aug-2018 07:12:01 Europe/Brussels] PHP Fatal error:  Call to undefined function db_create_table() in /home/s12137sc/public_html/modules/simpletest/tests/upgrade/drupal-6.forum.database.php on line 7
+[15-Aug-2018 07:12:03 Europe/Brussels] PHP Fatal error:  Call to undefined function db_create_table() in /home/s12137sc/public_html/modules/simpletest/tests/upgrade/drupal-6.forum.database.php on line 7

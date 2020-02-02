@@ -201,13 +201,13 @@
  * @endcode
  */
 $databases = array (
-  'default' =>
+  'default' => 
   array (
-    'default' =>
+    'default' => 
     array (
       'database' => 's12137sc_electro',
-      'username' => 'root',
-      'password' => 'root',
+      'username' => 's12137sc_electro',
+      'password' => 'electro',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',

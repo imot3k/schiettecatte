@@ -915,6 +915,17 @@ input.form-button-disabled:active {
   margin-right: 5px;
 }
 
-.views-slideshow-pager-field-item.active {
+.views-slideshow-pager-field-item.active,
+.field-slideshow-pager .activeSlide {
   font-weight: bold;
+}
+
+.field-slideshow-pager a {
+  margin-right: 5px;
+}
+
+.view-projecten .views-row {
+  background: url(../images/row_separator.png) no-repeat 0 bottom;
+  padding-bottom: 0.5em;
+  margin-bottom: 1.3em;
 }
